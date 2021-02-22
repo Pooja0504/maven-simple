@@ -19,6 +19,12 @@
     </dependency>
   </dependencies>
   
+  <properties>
+  <sonar.projectKey>Pooja0504_maven-simple</sonar.projectKey>
+  <sonar.organization>pooja0504</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+  
   <build>
     <plugins>
     
